@@ -1,2 +1,1 @@
-# java2
-Java çalışmam 2 e-ticaret sitesi ağırlıklı
+I work on e-commerce sites with Java.
